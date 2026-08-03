@@ -9,22 +9,24 @@ A multi-step, client-side validated registration form built in React — archite
 ## 📸 Screenshots
 
 ### Step 1 — Personal Info
-![Step 1 - Personal Info](./screenshots/step1-personal-info.png)
+<img width="532" height="796" alt="image" src="https://github.com/user-attachments/assets/cf1e4b61-52e6-4337-8810-690881aca0df" />
+
 
 ### Step 2 — Account Details with Real-Time Validation
-![Step 2 - Account Details](./screenshots/step2-account-details.png)
+<img width="501" height="801" alt="image" src="https://github.com/user-attachments/assets/3808bf6c-75a3-4fa4-b937-469caf77524d" />
+
 
 ### Step 3 — Review & Submit
-![Step 3 - Review and Submit](./screenshots/step3-review-submit.png)
+<img width="528" height="670" alt="image" src="https://github.com/user-attachments/assets/02d41df0-c512-4400-8164-b4bfa4a2980e" />
+
 
 ### Success State
-![Success Screen](./screenshots/success-screen.png)
+<img width="1605" height="684" alt="image" src="https://github.com/user-attachments/assets/a428015c-c204-472f-8dbb-cfb8c9b2dcba" />
 
-> **Note:** Create a `screenshots/` folder in the project root and add your own PNG captures with these exact filenames (or update the paths above to match your files) before pushing.
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Functionality (Phase 1)
 - **3-step wizard** — Personal Info → Account Details → Review & Submit, controlled entirely via conditional rendering (no router)
