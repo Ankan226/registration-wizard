@@ -6,7 +6,7 @@ A multi-step, client-side validated registration form built in React — archite
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Step 1 — Personal Info
 <img width="532" height="796" alt="image" src="https://github.com/user-attachments/assets/cf1e4b61-52e6-4337-8810-690881aca0df" />
@@ -45,7 +45,7 @@ A multi-step, client-side validated registration form built in React — archite
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -84,12 +84,6 @@ Open the printed local URL (typically `http://localhost:5173`) in your browser.
 ```bash
 npm run build
 ```
-
----
-
-## 🤖 AI Usage
-
-This project was built with AI-assisted debugging and architectural guidance under a "Learn, Don't Copy" policy. Full session logs are documented in [`Prompts.md`](./Prompts.md).
 
 ---
 
